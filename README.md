@@ -1,7 +1,7 @@
-TypeScript Mocha Chai Testing Demo
-==================================
+TypeScript Mocha Global Init Demo
+=================================
 
-Use mocha and chai to write tests with typescript.
+If we want to do some initialization before all tests, we can use `-r` to require the file as command line argument.
 
 ```
 npm install
